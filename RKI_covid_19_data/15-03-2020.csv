@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Death,Recovered,Latitude,Longitude
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
 Baden-Württemberg,Germany,2020-03-15T19:26:35,827,3,,48.5205,9.0551
 Bayern,Germany,2020-03-15T19:26:35,886,4,,48.1351,11.5775
 Berlin,Germany,2020-03-15T19:26:35,265,0,,52.5224,13.3986
