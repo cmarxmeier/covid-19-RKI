@@ -6,3 +6,5 @@
 transformed to John Hopkins CSV Format added Geo-Location for german cities/regions
 
 all done manually 
+
+# update: changed filenames to year-month-day
