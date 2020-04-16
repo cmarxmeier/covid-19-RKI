@@ -1,20 +1,20 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
-Alfter,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7371,7.0103
-Bad Honnef,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.6495,7.2685
-Bornheim,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7664,6.9784
-Eitorf,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7662,7.4436
-Hennef,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7764,7.2857
-Königswinter,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.6984,7.2434
-Lohmar,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.8625,7.2458
-Meckenheim,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.6207,7.0199
-Much,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.9,7.4189
-Neunkirchen-Seelscheid,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.853,7.3255
-Niederkassel,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.8198,7.046
-Rheinbach,Germany/NRW Rhein-Sieg-Kreis,2020-03-17T11:00:00,,,,50.6111,6.9461
-Ruppichteroth,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.8393,7.4371
-Sankt Augustin,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7758,7.1912
-Siegburg,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.8025,7.2264
-Swisttal,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.6814,6.908
-Troisdorf,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.8131,7.1336
-Wachtberg,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.6238,7.1167
-Windeck,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,,,,50.7888,7.573
+Alfter,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,54,1,43,50.7371,7.0103
+Bad Honnef,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,68,1,38,50.6495,7.2685
+Bornheim,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,93,1,37,50.7664,6.9784
+Eitorf,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,37,3,23,50.7662,7.4436
+Hennef,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,69,,46,50.7764,7.2857
+Königswinter,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,48,,30,50.6984,7.2434
+Lohmar,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,67,1,33,50.8625,7.2458
+Meckenheim,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,61,1,36,50.6207,7.0199
+Much,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,21,1,16,50.9,7.4189
+Neunkirchen-Seelscheid,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,29,,21,50.853,7.3255
+Niederkassel,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,37,,26,50.8198,7.046
+Rheinbach,Germany/NRW Rhein-Sieg-Kreis,2020-03-17T11:00:00,50,1,25,50.6111,6.9461
+Ruppichteroth,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,10,,8,50.8393,7.4371
+Sankt Augustin,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,133,13,37,50.7758,7.1912
+Siegburg,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,73,,48,50.8025,7.2264
+Swisttal,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,26,2,15,50.6814,6.908
+Troisdorf,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,101,1,56,50.8131,7.1336
+Wachtberg,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,29,,15,50.6238,7.1167
+Windeck,Germany/NRW Rhein-Sieg-Kreis,2020-04-16T11:00:00,9,1,6,50.7888,7.573
