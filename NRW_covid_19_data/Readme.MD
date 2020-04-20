@@ -8,3 +8,5 @@ all done manually - open data nrw lacks json api :(
 and web uri misses proper html format
 
 # update: changed filenames to year-month-day
+# update 2020-04-20 stopping data collect, cause of missing 'recovered' from NRW source in future reports.
+#                   still no JSON API, only pdf format
