@@ -8,3 +8,4 @@ all done manually - open data nrw lacks json api :(
 and web uri misses proper html format
 
 # update: changed filenames to year-month-day
+# data base changed to LZG NRW acc. IfSG.
